@@ -12,6 +12,19 @@
 		0029537822351EBC00952563 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0029537622351EBC00952563 /* Main.storyboard */; };
 		0029537A22351EC000952563 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0029537922351EC000952563 /* Assets.xcassets */; };
 		0029537D22351EC000952563 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0029537B22351EC000952563 /* LaunchScreen.storyboard */; };
+		00295387223521A500952563 /* CalculateHours.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00295386223521A500952563 /* CalculateHours.swift */; };
+		0034D11C223BC3120030059A /* TableViewControllerSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D11B223BC3120030059A /* TableViewControllerSettings.swift */; };
+		0034D11E223BC3470030059A /* TableViewCellSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D11D223BC3470030059A /* TableViewCellSalary.swift */; };
+		0034D120223BC36F0030059A /* TableViewCellWorkTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D11F223BC36F0030059A /* TableViewCellWorkTime.swift */; };
+		0034D122223BC9EA0030059A /* ViewControllerEnterSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D121223BC9EA0030059A /* ViewControllerEnterSalary.swift */; };
+		0034D124223BCC3C0030059A /* ViewControllerCalculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D123223BCC3C0030059A /* ViewControllerCalculate.swift */; };
+		0034D128223BE1FD0030059A /* ViewControllerSaveProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D127223BE1FD0030059A /* ViewControllerSaveProduct.swift */; };
+		0034D12B223E68190030059A /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D12A223E68190030059A /* Product.swift */; };
+		0034D12D223E96130030059A /* TableViewControllerSavedProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D12C223E96130030059A /* TableViewControllerSavedProducts.swift */; };
+		0034D131223E96930030059A /* productCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D130223E96930030059A /* productCellView.swift */; };
+		0034D1332243C69F0030059A /* DateHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D1322243C69F0030059A /* DateHandler.swift */; };
+		0034D1352243CD9E0030059A /* ViewControllerWorkingTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0034D1342243CD9E0030059A /* ViewControllerWorkingTime.swift */; };
+		00AEBFBE224933F80007E69E /* ViewControllerRemoveProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AEBFBD224933F80007E69E /* ViewControllerRemoveProduct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		0029537922351EC000952563 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0029537C22351EC000952563 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0029537E22351EC000952563 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00295386223521A500952563 /* CalculateHours.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateHours.swift; sourceTree = "<group>"; };
+		0034D11B223BC3120030059A /* TableViewControllerSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerSettings.swift; sourceTree = "<group>"; };
+		0034D11D223BC3470030059A /* TableViewCellSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellSalary.swift; sourceTree = "<group>"; };
+		0034D11F223BC36F0030059A /* TableViewCellWorkTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellWorkTime.swift; sourceTree = "<group>"; };
+		0034D121223BC9EA0030059A /* ViewControllerEnterSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEnterSalary.swift; sourceTree = "<group>"; };
+		0034D123223BCC3C0030059A /* ViewControllerCalculate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCalculate.swift; sourceTree = "<group>"; };
+		0034D127223BE1FD0030059A /* ViewControllerSaveProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSaveProduct.swift; sourceTree = "<group>"; };
+		0034D12A223E68190030059A /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		0034D12C223E96130030059A /* TableViewControllerSavedProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerSavedProducts.swift; sourceTree = "<group>"; };
+		0034D130223E96930030059A /* productCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productCellView.swift; sourceTree = "<group>"; };
+		0034D1322243C69F0030059A /* DateHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateHandler.swift; sourceTree = "<group>"; };
+		0034D1342243CD9E0030059A /* ViewControllerWorkingTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerWorkingTime.swift; sourceTree = "<group>"; };
+		00AEBFBD224933F80007E69E /* ViewControllerRemoveProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerRemoveProduct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,51 @@
 		0029537122351EBB00952563 /* App1 */ = {
 			isa = PBXGroup;
 			children = (
+				0034D12F223E96560030059A /* TableCell */,
+				0034D12E223E96280030059A /* TableViewControllers */,
+				0034D129223BE2120030059A /* ViewControllers */,
+				0034D12A223E68190030059A /* Product.swift */,
 				0029537222351EBB00952563 /* AppDelegate.swift */,
-				0029537422351EBB00952563 /* ViewController.swift */,
+				00295386223521A500952563 /* CalculateHours.swift */,
+				0034D1322243C69F0030059A /* DateHandler.swift */,
 				0029537622351EBC00952563 /* Main.storyboard */,
 				0029537922351EC000952563 /* Assets.xcassets */,
 				0029537B22351EC000952563 /* LaunchScreen.storyboard */,
 				0029537E22351EC000952563 /* Info.plist */,
 			);
 			path = App1;
+			sourceTree = "<group>";
+		};
+		0034D129223BE2120030059A /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				00AEBFBD224933F80007E69E /* ViewControllerRemoveProduct.swift */,
+				0034D1342243CD9E0030059A /* ViewControllerWorkingTime.swift */,
+				0034D121223BC9EA0030059A /* ViewControllerEnterSalary.swift */,
+				0034D127223BE1FD0030059A /* ViewControllerSaveProduct.swift */,
+				0034D123223BCC3C0030059A /* ViewControllerCalculate.swift */,
+				0029537422351EBB00952563 /* ViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		0034D12E223E96280030059A /* TableViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				0034D12C223E96130030059A /* TableViewControllerSavedProducts.swift */,
+				0034D11B223BC3120030059A /* TableViewControllerSettings.swift */,
+			);
+			path = TableViewControllers;
+			sourceTree = "<group>";
+		};
+		0034D12F223E96560030059A /* TableCell */ = {
+			isa = PBXGroup;
+			children = (
+				0034D11D223BC3470030059A /* TableViewCellSalary.swift */,
+				0034D11F223BC36F0030059A /* TableViewCellWorkTime.swift */,
+				0034D130223E96930030059A /* productCellView.swift */,
+			);
+			path = TableCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +198,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0034D1332243C69F0030059A /* DateHandler.swift in Sources */,
+				0034D11E223BC3470030059A /* TableViewCellSalary.swift in Sources */,
+				0034D11C223BC3120030059A /* TableViewControllerSettings.swift in Sources */,
+				0034D1352243CD9E0030059A /* ViewControllerWorkingTime.swift in Sources */,
+				00295387223521A500952563 /* CalculateHours.swift in Sources */,
+				0034D131223E96930030059A /* productCellView.swift in Sources */,
+				0034D12D223E96130030059A /* TableViewControllerSavedProducts.swift in Sources */,
+				0034D120223BC36F0030059A /* TableViewCellWorkTime.swift in Sources */,
 				0029537522351EBB00952563 /* ViewController.swift in Sources */,
+				0034D12B223E68190030059A /* Product.swift in Sources */,
+				0034D128223BE1FD0030059A /* ViewControllerSaveProduct.swift in Sources */,
+				0034D124223BCC3C0030059A /* ViewControllerCalculate.swift in Sources */,
 				0029537322351EBB00952563 /* AppDelegate.swift in Sources */,
+				00AEBFBE224933F80007E69E /* ViewControllerRemoveProduct.swift in Sources */,
+				0034D122223BC9EA0030059A /* ViewControllerEnterSalary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
